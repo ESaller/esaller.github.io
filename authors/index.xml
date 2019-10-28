@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Eduard Saller</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Eduard Saller</copyright>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Eduard Saller is part of an Industrial PhD program at the &lt;a href=&#34;http://www.cis.uni-muenchen.de/ueber_uns/index.html&#34; target=&#34;_blank&#34;&gt;Center for Information and Language Processing&lt;/a&gt; of the &lt;a href=&#34;https://www.en.uni-muenchen.de/about_lmu/index.html&#34; target=&#34;_blank&#34;&gt;Ludwig Maximilian University of Munich&lt;/a&gt; and the BMW GROUP. He is under the supervision of &lt;a href=&#34;http://www.cis.uni-muenchen.de/personen/professoren/schuetze/&#34; target=&#34;_blank&#34;&gt;Prof. Dr. Hinrich Schütze&lt;/a&gt; and &lt;a href=&#34;https://www.benjaminroth.net/&#34; target=&#34;_blank&#34;&gt;Dr. Benjamin Roth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;His research topics include question answering systems, knowledge graphs and memory networks.&lt;/p&gt;
+
+&lt;p&gt;He is also part of a BMW GROUP InnovationLab located in Munich, Germany, which develops vision based (object detection, object classification) and language based (information extraction, knowledge graph, question answering) systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

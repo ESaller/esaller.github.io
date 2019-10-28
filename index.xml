@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eduard Saller on Eduard Saller</title>
+    <title>Eduard Saller</title>
     <link>/</link>
-    <description>Recent content in Eduard Saller on Eduard Saller</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduard Saller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Eduard Saller</copyright>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Eduard Saller</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
